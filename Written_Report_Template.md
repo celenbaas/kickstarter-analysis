@@ -16,12 +16,14 @@ Two concerns to note are around comparing different countries and the different 
 ### Analysis of Outcomes Based on Launch Date
 The graph below shows outcomes based on launch date month for the Theater campaign.  
 
+<img width="777" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/96347024/147879937-df0e6806-6abd-4370-bf4e-8773c08df8f1.png">
 
 ### Analysis of Outcomes Based on Goals
 Next deep dive was around the percentage of successful, failed, and canceled plays based on the funding goal amount ranges.
 
 The graph below shows the relationship between goal amount ranges (x-axis) and the percentage of successful, failed, and canceled plays (y-axis).
 
+<img width="801" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/96347024/147879953-a3ba7ae4-3ab5-4f15-bc30-806df767dae0.png">
 
 
 ### Challenges and Difficulties Encountered
